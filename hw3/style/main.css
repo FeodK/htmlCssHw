@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.home {
+    padding-top: 40px;
+}
+
+.header {
+    margin-bottom: 84px;
+}
+
+.home__content {
+    margin-bottom: 162px;
+}
+
+.home__title {
+    margin-bottom: 17px;
+}
+
+.home__btns {
+    margin-top: 37px;
+}
+
+.home__brands {
+    padding: 96px 0;
+}
